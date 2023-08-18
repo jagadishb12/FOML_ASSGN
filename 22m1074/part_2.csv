@@ -1,0 +1,10 @@
+Name,Value
+batch_size,256
+epochs,2000
+learning rate,0.001
+hidden layers,2
+units,64
+lamda,0.0001
+scaling,MinMaxScaling
+weight init,He
+Optimizer,ADAM
